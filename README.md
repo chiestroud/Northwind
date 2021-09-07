@@ -3,6 +3,8 @@
 1. Download the script to create the northwind database from here : 
 
   [https://github.com/microsoft/sql-server-samples/raw/master/samples/databases/northwind-pubs/instnwnd.sql](https://github.com/microsoft/sql-server-samples/raw/master/samples/databases/northwind-pubs/instnwnd.sql)
+
+  
 2. Familiarize yourself with the tables and the way they relate using SSMS
 
     ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ba344d2-1123-44a1-8285-f6d5edef016f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ba344d2-1123-44a1-8285-f6d5edef016f/Untitled.png)
